@@ -1,46 +1,38 @@
-<!-- Header -->
-<h1 align="center">hey there :wave:, i'm Arda</h1>
+# Hi there, I'm Arda Can! 👋
 
-<!-- About Me -->
-## About Me
+### 🚀 Software Engineering Student | AI & Embedded Systems Enthusiast
 
-I'm a software engineering student in Istanbul, currently exploring data science and machine learning
+I am a senior Software Engineering student at Haliç University, focused on bridging the gap between **Artificial Intelligence** and **Physical Hardware**. My passion lies in building autonomous systems, real-time computer vision applications, and smart IoT solutions.
 
-<!-- Tech Stack -->
-<h2 align="center">:computer: Tech Stack</h2>
+---
 
-###
+### 🛠 My Technical Toolbox
 
-<div align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" /></a>
-  <img width="12" />
-  <!-- <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" /></a>
-  <img width="12" /> -->
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /></a>
-  <img width="12" />
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" /></a>
-</div>
+* **Languages:** Python, C++, SQL
+* **AI & Deep Learning:** YOLOv8, YOLOv5, TensorFlow, PyTorch, OpenCV
+* **Machine Learning:** Decision Trees, Random Forest, Data Preprocessing
+* **Embedded & IoT:** ESP32, Raspberry Pi, Sensor Fusion, 5GHz Low-Latency Communication
+* **Tools & Platforms:** Git, Overleaf (LaTeX), Linux
 
+---
 
+### 🌟 Featured Project: Centralized Edge-AI Autonomous Vehicle
+**Goal:** Developing a failsafe autonomous driving system with real-time decision-making.
+* **Dataset:** Trained with **44,000+ images** across **25 classes**.
+* **Architecture:** Centralized processing on PC via **5GHz high-speed router** for low latency.
+* **Failsafe:** Implemented a **Safe-to-Stop** protocol using **ESP32** and sensor fusion to handle connection losses.
+* **Logic:** Specialized **Decision Trees** for different object groups (Pedestrians vs. Obstacles).
 
-<!-- GitHub Stats -->
-<h2 align="center">:bar_chart: GitHub Stats</h2>
+---
 
-###
+### 📊 Github Stats
+![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
-<div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ardacan14&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1" height="130" alt="stats graph" style="pointer-events: none;" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ardacan14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&hide_border=true&order=2" height="130" alt="languages graph" style="pointer-events: none;" /></a>
-  <a href="#"><img src="https://streak-stats.demolab.com?user=ardacan14&locale=en&mode=daily&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph" style="pointer-events: none;" /></a>
-</div>
+---
 
-##
-<div align="center">
-  <p>Thanks for checking out my profile, and I look forward to connecting with like-minded professionals for mutual growth and success!</p><br>
-  <img src="https://komarev.com/ghpvc/?username=ardacan14"/><br>
+### 📫 How to reach me:
+* **LinkedIn:** [linkedin.com/in/arda-can](https://linkedin.com/in/YOUR_LINKEDIN_URL)
+* **Email:** your-email@example.com
+
+*"The best way to predict the future is to code it."*
